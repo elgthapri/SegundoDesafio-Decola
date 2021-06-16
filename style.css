@@ -12,3 +12,46 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.segundoBloco{
+    height: 25vh;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.terceiroBloco {
+    height: 12vh;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+#info01 {
+    background-color: yellow;
+}
+
+#info02 {
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quartoBloco {
+    height: 12vh;
+    display: flex;
+    flex-direction: row;
+}
+
+#info03 {
+    background-color: blue;
+    width: 50vw;
+}
+
+#info04 {
+    background-color: purple;
+    width: 50vw;
+}
